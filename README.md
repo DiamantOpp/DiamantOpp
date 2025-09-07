@@ -11,8 +11,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"   height="30" alt="cplusplus" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript">
-</div>
-<div align="left">
                                                         <img src="https://img.shields.io/badge/Discord-DiamantOpp%20(ミズキ)-blue.svg" alt="discord: diamantopp (ミズキ)">      <br>
     <a href="https://github.com/DiamantOpp">            <img src="https://img.shields.io/badge/GitHub-DiamantOpp%20(ミズキ)-black.svg" alt="github: diamantopp (ミズキ)" > </a> <br>
     <a href="https://www.youtube.com/@DiamantOpp">      <img src="https://img.shields.io/badge/Youtube-DiamantOpp%20(みず)-red.svg"    alt="youtube: diamantopp (みず)" > </a> <br>
