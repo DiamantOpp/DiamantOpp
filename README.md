@@ -14,7 +14,8 @@
                                                         <img src="https://img.shields.io/badge/Discord-DiamantOpp%20(ミズキ)-blue.svg" alt="discord: diamantopp (ミズキ)">      <br>
     <a href="https://github.com/DiamantOpp">            <img src="https://img.shields.io/badge/GitHub-DiamantOpp%20(ミズキ)-black.svg" alt="github: diamantopp (ミズキ)" > </a> <br>
     <a href="https://www.youtube.com/@DiamantOpp">      <img src="https://img.shields.io/badge/Youtube-DiamantOpp%20(みず)-red.svg"    alt="youtube: diamantopp (みず)" > </a> <br>
-    <a href="https://steamcommunity.com/id/DiamantOpp"> <img src="https://img.shields.io/badge/Steam-DiamantOpp-navy.svg"             alt="steam: diamantopp"          > </a>
+    <a href="https://steamcommunity.com/id/DiamantOpp"> <img src="https://img.shields.io/badge/Steam-DiamantOpp-navy.svg"             alt="steam: diamantopp"          > </a> <br>
+    <a href="https://codeberg.org/DiamantOpp">          <img src="https://img.shields.io/badge/Codeberg-DiamantOpp-black.svg"         alt="codeberg: diamantopp"       > </a>
 </div>
 <br><br>
 <div align="center">
